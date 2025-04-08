@@ -1,4 +1,4 @@
-# Pathways to Cloud Excellence: Migrate, Modernize, and Maximize with AI & Azure
+# Pathways to Cloud Excellence: Migrate, Modernize, and Maximize with AI & Azure
 
 ## Golden Paths
 
@@ -25,13 +25,28 @@ Documentation is not only the first step in your platform strategy, it's what ca
 
 ## 
 
-## DevSecOps Infrastructure as Code
+## DevSecOps - Infrastructure as Code
 
 - [Use Azure portal to export a Bicep file](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/export-bicep-portal)
 - [Azure Verified Modules](https://azure.github.io/Azure-Verified-Modules/indexes/bicep/bicep-resource-modules/)
 - [Use the Bicep Linter](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/linter)
 - [Enhancing Infrastructure as Code Generation with GitHub Copilot for Azure](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/enhancing-infrastructure-as-code-generation-with-github-copilot-for-azure/4388514)
 
-## DevSecOps OIDC Federated Credentials for GitHub Actions to access Azure
+## DevSecOps - OIDC Federated Credentials for GitHub Actions to access Azure
 - [Use the Azure Login action with OpenID Connect](https://learn.microsoft.com/en-us/azure/developer/github/connect-from-azure-openid-connect)
+
+## DevSecOps - Branch Protection Rulesets
+
+- [About Rulesets](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-rulesets/about-rulesets)
+
+## DevSecOps - OWASP TOP 10 CI/CD
+
+- [OWASP Top Ten CI/CD](https://owasp.org/www-project-top-10-ci-cd-security-risks/)
+
+## Azure Workbooks
+
+- [Azure Orphaned Resources v3.0](https://github.com/dolevshor/azure-orphan-resources)
+- [Azure FinOps Toolkit](https://github.com/microsoft/finops-toolkit)
+- [Cost Optimization Workbook](https://github.com/microsoft/finops-toolkit/blob/dev/src/workbooks/optimization/CostOptimization.workbook)
+- 
 
