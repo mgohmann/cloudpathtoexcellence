@@ -48,5 +48,10 @@ Documentation is not only the first step in your platform strategy, it's what ca
 - [Azure Orphaned Resources v3.0](https://github.com/dolevshor/azure-orphan-resources)
 - [Azure FinOps Toolkit](https://github.com/microsoft/finops-toolkit)
 - [Cost Optimization Workbook](https://github.com/microsoft/finops-toolkit/blob/dev/src/workbooks/optimization/CostOptimization.workbook)
-- 
+- [Service Retirement workbook](https://learn.microsoft.com/en-us/azure/advisor/advisor-workbook-service-retirement?tabs=impacted-services)
+- [Azure Security Benchmark](https://learn.microsoft.com/en-us/security/benchmark/azure/overview-v3)
 
+## GitHub CoPilot for Code Generation and Optimization
+
+- [Unleashing SQL Sorcery: Increasing Performance and Complexity with GitHub Copilot](https://techcommunity.microsoft.com/blog/azuresqlblog/unleashing-sql-sorcery-increasing-performance-and-complexity-with-github-copilot/3898909)
+- [CoPilot for KQL for Security](https://learn.microsoft.com/en-us/copilot/security/plugin-kql)
